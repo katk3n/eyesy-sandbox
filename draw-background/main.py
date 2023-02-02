@@ -12,7 +12,7 @@ def setup(screen, etc):
 
     # 背景画像用のファイルを読み込む
     # etc.mode_root は main.py がある場所
-    bg_image = pygame.image.load(etc.mode_root + "/Images/waterfall_quarter.png")
+    bg_image = pygame.image.load(etc.mode_root + "/Images/merlion.jpg")
 
 
 # 描画するための関数
